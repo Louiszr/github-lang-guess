@@ -1,4 +1,4 @@
-# github-lang-guess
+# GithubRepo
 Guess (or suggest) Github users' favourite languages based on their repos
 
 Github API requests are made through PyGithub https://github.com/PyGithub/PyGithub
